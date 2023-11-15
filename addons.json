@@ -1,0 +1,15 @@
+[
+    {
+        "description": "Swaps places of L1/L2 and R1/R2 in controller mode",
+        "file": "quickslottweak",
+        "unicode": "🐱",
+        "fileVersion": "v1.0.0",
+        "extension": "ipf",
+        "name": "Controller skillbar tweak",
+        "releaseTag": "v1.0.0",
+        "tags": [
+            "ui",
+            "controller"
+        ]
+    }
+]
